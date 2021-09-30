@@ -1,6 +1,6 @@
 ---
 title: "covid 19"
-author: "Paulo"
+author: "Paulo Poblete"
 date: "Sept,29,2021"
 output:
   html_document: default
@@ -38,10 +38,11 @@ with(kRdata, table(Sex, result))
 
 ## We create two bar charts - one based on frequency and the other on percent, use ggplot commands to do this
 
-`
+```{r}
+barchartGC(~result + Sex,data=kRdata)
+barchartGC(~result + Sex,data=kRdata, type="percent")
 
-  
-
+```
 
 
 
