@@ -63,6 +63,8 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+We now have the correct percentages, in the alive group 56% were F and 44% were M 
+in the dead group 36% were F and 64% were M. 
 
 ## Inferential results 
 
