@@ -51,9 +51,7 @@ barchartGC(~result + Sex,data=kRdata, type="percent")
 ```
 
 
-
-
-the 2nd plot shows that the females group outnumber the names in the alive graph. On the 2nd one it shows the number of the dead, which portrays that there is twice as much dead males in comparison to females 
+The percentage plot shows that the alive group there were around 58% were female and around 42% were male. In the dead group there were 62% male and 38% female. In a quick glance it looks like there is twice as much dead males than there is females. 
 
 
   
