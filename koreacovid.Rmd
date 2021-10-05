@@ -68,7 +68,10 @@ in the dead group 36% were F and 64% were M.
 
 ## Inferential results 
 
+The null hypothesis is   
+$H_0$: There is no difference in the proportion of men dying compared to the portion of women.  
 
+$H_A$: There is a difference in the proportion of men dying compared to the portion of women. 
 
 
 
