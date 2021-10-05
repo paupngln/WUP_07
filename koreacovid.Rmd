@@ -73,7 +73,13 @@ $H_0$: There is no difference in the proportion of men dying compared to the por
 
 $H_A$: There is a difference in the proportion of men dying compared to the portion of women. 
 
-
+```{r}
+chisq.test(table1)
+#next we do tiger stats chi sq test 
+chisqtestGC(table1)
+#next we'll do a fisher test 
+fisher.test(table1)
+```
 
 ## Conclusions
 
