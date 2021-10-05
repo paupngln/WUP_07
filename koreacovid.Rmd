@@ -81,5 +81,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+The chi sq test provides the exact numbers. It shows that 1831 were F and 1411 M that were alive. It also shows that 25 F and 44 M died. 
+
+The fisher test gives us the odds of dying for males it 44/1411 and the odds of the female dying is 25/1831. The odds ratio is 44/1411 divided by 25/1831 is 2.3. The odds ratio shows that males are 2.3x more likely to die than females. 
+
 ## Conclusions
 
